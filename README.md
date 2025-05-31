@@ -8,6 +8,9 @@
 **Período**: Abril a Junho de 2025  
 **Público-Alvo**: Alunos do Ensino Médio Integrado ao Técnico em Informática (1º ano, conforme a grade curricular)
 
+
+##0. Link do Repo.
+
 ## 1. Justificativa
 A disciplina combina **UX/UI com Figma** e **Introdução à Programação Web (HTML + CSS)** para formar profissionais aptos a projetar interfaces digitais centradas no usuário e implementar páginas web básicas, atendendo às demandas do mercado de tecnologia. O Figma é utilizado para prototipagem colaborativa, enquanto HTML e CSS introduzem os fundamentos de desenvolvimento web. A abordagem interdisciplinar, baseada em projetos e alinhada ao **Projeto Político-Pedagógico (PPP)** do Senac, promove o pensamento computacional, criatividade, colaboração e habilidades socioemocionais, conectando os conteúdos às competências da **Base Nacional Comum Curricular (BNCC)** e preparando os alunos para o mercado de TI, ENEM e vestibulares.
 
