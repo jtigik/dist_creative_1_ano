@@ -90,5 +90,6 @@ Ao final do trimestre, espera-se que os alunos:
 - A disciplina será integrada a eventos do Senac Distrito Criativo, como hackathons ou feiras de tecnologia, para vivências práticas.
 - Os alunos serão incentivados a participar de simulados para o ENEM, conectando a disciplina ao preparo para exames.
 
-**Assinatura do Docente**: [Jeferson Tigik ]
-**Assinatura do Coordenador Pedagógico**: [Aline Ussinger de Vargas Trevisoli]
+**Assinatura do Docente**: Jeferson Tigik
+
+**Assinatura do Coordenador Pedagógico**: Aline Ussinger de Vargas Trevisoli
