@@ -1,4 +1,4 @@
-# Plano de Trabalho do Docente – Escola SENAC de Ensino Médio Profissionalizante - Distrito Criativo – 2º Trimestre de 2025
+# Plano de Trabalho Docente – 2º Trimestre de 2025 – Escola SENAC de Ensino Médio Profissionalizante - Distrito Criativo
 
 **Disciplina:** UI/UX com Figma e HTML + CSS  
 **Público:** 1º Ano do Ensino Médio  
