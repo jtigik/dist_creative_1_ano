@@ -1,95 +1,138 @@
-# Plano de Trabalho Docente – 2º Trimestre de 2025
+# Plano de Trabalho do Docente – Escola SENAC de Ensino Médio Profissionalizante - Distrito Criativo – 2º Trimestre de 2025
 
-**Curso**: Técnico em Informática – Ensino Médio Profissionalizante  
-**Disciplina**: UX/UI com Figma e Introdução à Programação Web (HTML + CSS)  
-**Unidade**: Senac Distrito Criativo, Porto Alegre/RS  
-**Docente**: Jeferson Tigik   
-**Carga Horária**: 98 horas-aula (12 semanas, aproximadamente 8 horas-aula semanais)  
-**Período**: Abril a Junho de 2025  
-**Público-Alvo**: Alunos do Ensino Médio Integrado ao Técnico em Informática (1º ano, conforme a grade curricular)
+**Disciplina:** UI/UX com Figma e HTML + CSS  
+**Público:** 1º Ano do Ensino Médio  
+**Carga Horária Semanal:** 7 horas  
+**Período:** 26/05/2025 a 05/09/2025 (15 semanas, considerando possíveis feriados e ajustes)  
+**Total de Horas:** 105 horas (15 semanas x 7 horas)  
+**Objetivo Geral:** Capacitar os alunos do 1º ano do Ensino Médio a desenvolver interfaces digitais utilizando conceitos de UI/UX com a ferramenta Figma e implementar páginas web básicas com HTML e CSS, promovendo habilidades técnicas e criativas para projetos digitais.
 
-## 1. Justificativa
-A disciplina combina **UX/UI com Figma** e **Introdução à Programação Web (HTML + CSS)** para formar profissionais aptos a projetar interfaces digitais centradas no usuário e implementar páginas web básicas, atendendo às demandas do mercado de tecnologia. O Figma é utilizado para prototipagem colaborativa, enquanto HTML e CSS introduzem os fundamentos de desenvolvimento web. A abordagem interdisciplinar, baseada em projetos e alinhada ao **Projeto Político-Pedagógico (PPP)** do Senac, promove o pensamento computacional, criatividade, colaboração e habilidades socioemocionais, conectando os conteúdos às competências da **Base Nacional Comum Curricular (BNCC)** e preparando os alunos para o mercado de TI, ENEM e vestibulares.
+---
 
-## 2. Objetivos
+## 1. Contextualização
 
-### Objetivo Geral
-Capacitar os alunos a projetar interfaces digitais centradas no usuário com o Figma e desenvolver páginas web básicas com HTML e CSS, integrando competências de design e programação para atuar no mercado de tecnologia, com foco em autonomia, criatividade e resolução de problemas.
+O plano de trabalho é estruturado para atender alunos do 1º ano do Ensino Médio, introduzindo-os ao design de interfaces (UI/UX) e ao desenvolvimento web front-end com HTML e CSS. A abordagem combina teoria e prática, com foco em projetos práticos que simulam demandas reais do mercado, alinhados ao perfil profissionalizante do SENAC. O curso utiliza o Figma como ferramenta principal para design de interfaces e prototipagem, e HTML/CSS para implementação de layouts web responsivos.
 
-### Objetivos Específicos
-1. Compreender os fundamentos de UX/UI, incluindo usabilidade, acessibilidade e design centrado no usuário.
-2. Dominar o Figma para criar protótipos interativos de baixa e alta fidelidade.
-3. Aprender HTML e CSS para estruturar e estilizar páginas web responsivas.
-4. Desenvolver projetos práticos que integrem design de interfaces e implementação web.
-5. Fomentar habilidades socioemocionais, como trabalho em equipe, comunicação e pensamento crítico, por meio de metodologias ativas.
+---
 
-## 3. Conteúdos Programáticos
-Os conteúdos foram organizados em 12 semanas (98 horas-aula), com 60% (59h) para UX/UI e 40% (39h) para HTML/CSS, com maior aprofundamento em prototipagem, testes de usabilidade e programação web.
+## 2. Objetivos Específicos
 
-| Semana | Conteúdo | Habilidades/Competências | Carga Horária |
-|--------|----------|--------------------------|---------------|
-| **1-2** (Abril) | **Fundamentos de UX/UI e HTML** <br> - Conceitos de UX e UI (usabilidade, acessibilidade, hierarquia visual) <br> - Introdução ao Figma: interface, ferramentas, wireframes simples <br> - HTML: estrutura básica, tags semânticas, formulários | Compreender UX/UI; criar wireframes no Figma; estruturar páginas HTML. | 16h (10h UX/UI, 6h HTML) |
-| **3-4** (Abril) | **Pesquisa com Usuários e CSS Básico** <br> - Métodos de pesquisa (entrevistas, personas, jornadas do usuário) <br> - CSS: seletores, propriedades (cores, fontes, box model), posicionamento | Criar personas e jornadas; estilizar páginas HTML com CSS. | 16h (10h UX/UI, 6h CSS) |
-| **5-6** (Maio) | **Prototipagem e Layouts Responsivos** <br> - Prototipagem no Figma: wireframes e protótipos de alta fidelidade <br> - CSS: Flexbox, media queries, design responsivo | Criar protótipos interativos no Figma; desenvolver layouts responsivos. | 16h (10h UX/UI, 6h CSS) |
-| **7-8** (Maio) | **Design System e CSS Avançado** <br> - Criação de design system no Figma (cores, tipografia, componentes reutilizáveis) <br> - CSS: Grid, animações, transições, pseudo-classes | Organizar design systems; aplicar estilos avançados com CSS. | 16h (10h UX/UI, 6h CSS) |
-| **9-10** (Junho) | **Testes de Usabilidade e Integração** <br> - Testes de usabilidade (testes A/B, observação, feedback) <br> - Integração de protótipos Figma com HTML/CSS <br> - Boas práticas de acessibilidade web | Realizar testes de usabilidade; converter protótipos em páginas web; aplicar acessibilidade. | 16h (10h UX/UI, 6h HTML/CSS) |
-| **11-12** (Junho) | **Projeto Integrador** <br> - Desenvolvimento de um protótipo completo no Figma e sua implementação em HTML/CSS <br> - Apresentação do projeto com pitch profissional | Integrar UX/UI e programação; apresentar soluções criativas; colaborar em equipe. | 18h (9h UX/UI, 9h HTML/CSS) |
+- Compreender os princípios de UI (User Interface) e UX (User Experience) e aplicá-los no desenvolvimento de interfaces digitais.
+- Dominar o uso do Figma para criação de wireframes, protótipos interativos e design visual.
+- Aprender a estrutura e semântica do HTML para criar páginas web acessíveis.
+- Utilizar CSS para estilizar interfaces, aplicando layouts responsivos e boas práticas de design.
+- Desenvolver projetos práticos que integrem UI/UX e codificação front-end, trabalhando habilidades como criatividade, resolução de problemas e colaboração.
 
-## 4. Metodologias de Ensino
-Alinhadas ao PPP do Senac, as metodologias são ativas e interdisciplinares, com foco em projetos e vivências práticas:
-- **Aprendizagem Baseada em Projetos (PBL)**: Desenvolvimento de um **Projeto Integrador**, criando um protótipo no Figma e implementando-o em HTML/CSS, resolvendo um problema real (ex.: site para uma iniciativa do Distrito Criativo).
-- **Gamificação**: Desafios semanais, como criar layouts no Figma e codificá-los em HTML/CSS em tempo limitado.
-- **Estudos de Caso**: Análise de interfaces reais (ex.: sites de tecnologia ou e-commerce) para discutir UX/UI e sua implementação técnica.
-- **Trabalho Colaborativo**: Uso do Figma para design colaborativo e GitHub para versionamento de código.
-- **Oficinas Práticas**: Sessões no laboratório de informática para prática no Figma e em editores como VS Code.
-- **Palestras e Visitas Técnicas**: Convite a profissionais de UX/UI e desenvolvimento web ou visitas a empresas no Distrito Criativo.
+---
 
-## 5. Recursos Didáticos
-- **Tecnológicos**: Computadores com acesso ao Figma, VS Code, GitHub, navegadores web e Office 365.
-- **Materiais**: Slides, tutoriais em vídeo, templates de personas, jornadas do usuário, exemplos de código HTML/CSS, guias de acessibilidade.
-- **Ambientes**: Laboratório de informática, salas interativas e espaços colaborativos do Senac Distrito Criativo.
-- **Convidados**: Profissionais de UX/UI e desenvolvimento web para palestras ou mentorias.
+## 3. Conteúdo Programático
 
-## 6. Avaliação da Aprendizagem
-A avaliação segue o **Modelo Pedagógico Senac**, com foco em competências:
-- **Formativa**: Participação em atividades, exercícios práticos (ex.: wireframes, páginas HTML/CSS) e dinâmicas em grupo (30% da nota).
-- **Somativa**: Entrega de protótipos no Figma e páginas web em HTML/CSS, com feedback individualizado (30% da nota).
-- **Projeto Integrador**: Desenvolvimento e apresentação de um protótipo no Figma implementado em HTML/CSS, avaliado por usabilidade, funcionalidade, acessibilidade, criatividade e apresentação (40% da nota).
-- **Critérios de Avaliação**:
-  - Domínio técnico do Figma, HTML e CSS.
-  - Aplicação de princípios de UX/UI e acessibilidade.
-  - Qualidade da integração entre design e código.
-  - Colaboração, comunicação e pensamento crítico.
-- **Recuperação Contínua**: Atividades personalizadas para reforçar conteúdos, com base na Avaliação Inteligente.
+O conteúdo está dividido em dois módulos principais: **UI/UX com Figma** e **HTML + CSS**. Cada módulo será abordado de forma integrada, com projetos práticos que conectam design e desenvolvimento.
 
-## 7. Integração com o Projeto de Vida e Projeto Profissional
-- **Projeto de Vida**: Reflexões sobre o impacto do design e da programação na sociedade, conectando interesses pessoais à carreira em tecnologia.
-- **Projeto Profissional**: Criação de portfólios com protótipos no Figma e páginas web em HTML/CSS, além de simulações de entrevistas com profissionais de TI.
+### Módulo 1: UI/UX com Figma (50 horas)
 
-## 8. Cronograma de Atividades
-| Data | Atividade | Entrega/Produto Esperado |
-|------|-----------|--------------------------|
-| Semana 1-2 | Fundamentos de UX/UI e HTML | Wireframe no Figma e página HTML semântica |
-| Semana 3-4 | Pesquisa de usuário e CSS básico | Persona, jornada do usuário e página estilizada |
-| Semana 5-6 | Prototipagem e layouts responsivos | Protótipo de alta fidelidade e página com Flexbox |
-| Semana 7-8 | Design system e CSS avançado | Biblioteca de componentes no Figma e página com Grid/animações |
-| Semana 9-10 | Testes de usabilidade e integração | Relatório de teste, página web funcional e acessível |
-| Semana 11-12 | Projeto Integrador | Protótipo no Figma, página HTML/CSS e apresentação com pitch |
+- **Introdução ao UI/UX (10 horas)**  
+  - Conceitos de UI e UX: diferenças e aplicações.  
+  - Princípios de design: hierarquia visual, tipografia, cores e acessibilidade.  
+  - Pesquisa de usuário: personas, jornadas do usuário e empatia.  
+  - Ferramentas de design: introdução ao Figma (interface, ferramentas básicas).  
+- **Wireframes e Prototipagem (15 horas)**  
+  - Criação de wireframes de baixa e alta fidelidade.  
+  - Prototipagem interativa no Figma.  
+  - Testes de usabilidade básicos e iteração de designs.  
+- **Design Visual e Componentização (15 horas)**  
+  - Criação de sistemas de design (design systems).  
+  - Uso de componentes reutilizáveis e bibliotecas no Figma.  
+  - Exportação de assets para desenvolvimento.  
+- **Projeto Prático de UI/UX (10 horas)**  
+  - Desenvolvimento de um protótipo completo de uma aplicação (ex.: landing page, app mobile).  
+  - Apresentação e feedback em grupo.
 
-## 9. Resultados Esperados
-Ao final do trimestre, espera-se que os alunos:
-- Criem protótipos interativos no Figma com princípios de UX/UI.
-- Desenvolvam páginas web responsivas e acessíveis com HTML e CSS.
-- Integrem design e programação em projetos práticos.
-- Desenvolvam habilidades de colaboração, comunicação e pensamento crítico.
-- Estejam preparados para estágios em TI, com portfólios iniciais.
-- Relacionem os conteúdos com as competências da BNCC, como pensamento computacional, criatividade e resolução de problemas.
+### Módulo 2: HTML + CSS (50 horas)
 
-## 10. Observações
-- O PTD poderá ser ajustado conforme necessidades dos alunos ou mudanças na dinâmica do curso, com ciência do coordenador pedagógico.
-- A disciplina será integrada a eventos do Senac Distrito Criativo, como hackathons ou feiras de tecnologia, para vivências práticas.
-- Os alunos serão incentivados a participar de simulados para o ENEM, conectando a disciplina ao preparo para exames.
+- **Introdução ao HTML (10 horas)**  
+  - Estrutura básica de uma página HTML.  
+  - Tags semânticas (header, nav, main, footer, etc.).  
+  - Acessibilidade em HTML (ARIA, alt text).  
+- **Fundamentos de CSS (15 horas)**  
+  - Seletores, propriedades e valores.  
+  - Box model, posicionamento e display (flexbox e grid).  
+  - Estilização de tipografia, cores e imagens.  
+- **Design Responsivo (10 horas)**  
+  - Media queries e breakpoints.  
+  - Técnicas de layout responsivo e mobile-first.  
+- **Projeto Prático de HTML + CSS (15 horas)**  
+  - Implementação de um layout desenhado no Figma (ex.: landing page).  
+  - Integração de design e código, com foco em responsividade.  
+  - Validação de código e boas práticas.
 
-**Assinatura do Docente**: Jeferson Tigik
+### Atividades Integradas (5 horas)
 
-**Assinatura do Coordenador Pedagógico**: Aline Ussinger de Vargas Trevisoli
+- Revisão e integração dos projetos de UI/UX e HTML/CSS.  
+- Apresentação final dos projetos, com feedback coletivo.
+
+---
+
+## 4. Metodologia
+
+- **Aulas Teórico-Práticas:** Exposição de conceitos com exemplos práticos, utilizando o Figma e editores de código (ex.: VS Code).  
+- **Projetos Práticos:** Desenvolvimento de projetos reais (ex.: landing page, protótipo de app), com entregas semanais.  
+- **Aprendizado Baseado em Projetos (PBL):** Alunos trabalharão em grupos para resolver desafios de design e codificação.  
+- **Ferramentas:** Figma (design e prototipagem), VS Code (HTML/CSS), GitHub (opcional, para versionamento).  
+- **Atividades Colaborativas:** Dinâmicas de feedback entre pares e apresentações de projetos.  
+- **Acompanhamento Individual:** Orientação para dúvidas e apoio no desenvolvimento de projetos.
+
+---
+
+## 5. Cronograma Semanal (26/05/2025 a 05/09/2025)
+
+*Observação:* O cronograma considera 15 semanas, com 7 horas semanais (divididas em 2 aulas de 3,5 horas, por exemplo). Ajustes podem ser feitos para feriados ou eventos escolares.
+
+| Semana | Data           | Módulo    | Conteúdo                                     | Carga Horária |
+|--------|----------------|-----------|----------------------------------------------|---------------|
+| 1      | 26/05 - 30/05  | UI/UX     | Introdução ao UI/UX e Figma: conceitos e interface | 7h            |
+| 2      | 02/06 - 06/06  | UI/UX     | Princípios de design e criação de personas  | 7h            |
+| 3      | 09/06 - 13/06  | UI/UX     | Wireframes de baixa fidelidade               | 7h            |
+| 4      | 16/06 - 20/06  | UI/UX     | Prototipagem interativa no Figma             | 7h            |
+| 5      | 23/06 - 27/06  | UI/UX     | Design visual: tipografia, cores e componentes | 7h            |
+| 6      | 30/06 - 04/07  | UI/UX     | Sistemas de design e exportação de assets    | 7h            |
+| 7      | 07/07 - 11/07  | UI/UX     | Projeto prático: protótipo de app/landing page | 7h            |
+| 8      | 14/07 - 18/07  | HTML      | Introdução ao HTML: estrutura e semântica    | 7h            |
+| 9      | 21/07 - 25/07  | HTML      | Tags semânticas e acessibilidade             | 7h            |
+| 10     | 28/07 - 01/08  | CSS       | Fundamentos de CSS: seletores e box model    | 7h            |
+| 11     | 04/08 - 08/08  | CSS       | Layouts com flexbox e grid                   | 7h            |
+| 12     | 11/08 - 15/08  | CSS       | Design responsivo: media queries e mobile-first | 7h            |
+| 13     | 18/08 - 22/08  | HTML/CSS  | Projeto prático: implementação de layout      | 7h            |
+| 14     | 25/08 - 29/08  | HTML/CSS  | Finalização do projeto e validação de código | 7h            |
+| 15     | 01/09 - 05/09  | Integrado | Revisão, integração e apresentação final     | 7h            |
+
+---
+
+## 6. Avaliação
+
+- **Formativa (40%)**: Participação nas aulas, entrega de atividades semanais e colaboração em grupo.  
+- **Projetos Práticos (50%)**: Avaliação dos projetos de UI/UX (prototipo no Figma) e HTML/CSS (página web funcional).  
+  - Critérios: usabilidade, estética, semântica, responsividade e apresentação.  
+- **Apresentação Final (10%)**: Clareza na comunicação e defesa do projeto integrado.  
+
+---
+
+## 7. Recursos Necessários
+
+- Computadores com acesso à internet e navegadores atualizados.  
+- Licença educacional do Figma (ou contas gratuitas).  
+- Editor de código (VS Code recomendado).  
+- Materiais de apoio: slides, tutoriais em vídeo, exemplos de projetos reais.  
+- Laboratório de informática com projetor para aulas expositivas.
+
+---
+
+## 8. Observações
+
+- **Acessibilidade**: Garantir que os projetos considerem diretrizes de acessibilidade (ex.: contraste, navegação por teclado).  
+- **Flexibilidade**: O cronograma pode ser ajustado conforme o ritmo da turma ou imprevistos (feriados, eventos escolares).  
+- **Integração com Outras Disciplinas**: O plano pode ser alinhado com disciplinas como empreendedorismo ou tecnologia, incentivando projetos interdisciplinares.
+
+---
+
+Este plano visa equilibrar teoria e prática, preparando os alunos para demandas do mercado de tecnologia, com foco em habilidades práticas e criativas. Caso precise de ajustes ou mais detalhes, é só informar!
